@@ -1,4 +1,4 @@
-body {
+.d-center {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -9,6 +9,7 @@ body {
     background-color: rgba(90, 90, 90, 0.103);
     margin-top: 100px;
     padding: 2rem 2rem;
+    width: 45%;
     display: flex;
     flex-direction: column;
     font-weight: 600;
