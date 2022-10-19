@@ -7,9 +7,9 @@
 .form {
     border: 2px solid rgb(82, 82, 82);
     background-color: rgba(90, 90, 90, 0.103);
-    margin-top: 100px;
     padding: 2rem 2rem;
-    width: 45%;
+    margin: 100px 30px;
+    /* width: 45%; */
     display: flex;
     flex-direction: column;
     font-weight: 600;
@@ -23,3 +23,11 @@
 .point {
     color: rgb(173, 0, 0);
 }
+
+
+.Ccontainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* width: 80vw; */
+  }
